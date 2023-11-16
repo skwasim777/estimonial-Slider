@@ -29,5 +29,5 @@ Update the 'testimonials' array in 'index.js' with your own testimonials, includ
 ## Screenshots
 
 ![App Screenshot 1]Screenshot%20(188).png)
-![App Screenshot 2](Screenshot%20(189).png)
+![App Screenshot 2](Screenshot(189).png)
 
