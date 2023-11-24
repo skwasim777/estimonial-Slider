@@ -3,7 +3,6 @@
 
 This project is a Testimonial Slider that showcases user testimonials in a visually appealing and dynamic manner. Testimonials are displayed in a container, featuring the user's image, feedback text, and their name.
 
-
 ## Features
 - **Real-time Testimonials:** The slider updates testimonials in real-time, creating a dynamic and engaging user experience.
 
