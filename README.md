@@ -20,7 +20,7 @@ This project is a Testimonial Slider that showcases user testimonials in a visua
 - **style.css**: Custom CSS styles for the project.
 - **index.js**: JavaScript file handling testimonial updates.
 - **demo.png**: Preview image for the README.
-
+  
 ## How to Use
 1. Clone the repository.
 2. Open 'index.html' in a web browser to see the Testimonial Slider in action.
