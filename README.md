@@ -15,6 +15,7 @@ This project is a Testimonial Slider that showcases user testimonials in a visua
 - CSS
 - JavaScript
 - Bootstrap 5
+  
 ## Project Structure
 - **index.html**: Main HTML file for structuring the content.
 - **style.css**: Custom CSS styles for the project.
