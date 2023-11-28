@@ -9,6 +9,7 @@ This project is a Testimonial Slider that showcases user testimonials in a visua
 - **Responsive Design**: The slider is designed to work seamlessly across various screen sizes and devices.
 
 - **Customizable**: Easily customize the testimonials, including user images, feedback text, and names, by updating the testimonials array in the index.js file.
+  
 ## Technologies Used
 - HTML
 - CSS
